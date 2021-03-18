@@ -1,0 +1,12 @@
+{
+  "name": "happymobile",
+  "displayName": "happymobile",
+  "expo": {
+    "name": "happymobile",
+    "slug": "happymobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
